@@ -1,10 +1,11 @@
 # COVID-19 Dashboard
+https://nickermol-covid-dashboard.netlify.app/
 
 Thank you for visiting our Dashboard an application for tracking the spread of COVID-19 in the world and in selected countries. Take care of yourself. :mask:
 
 *This project was created in the frame of the RS School course.*
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2f1c4ff3-a361-47fe-bf4a-01d09a6ad4d0/deploy-status)](https://app.netlify.com/sites/kind-hermann-f3eeec/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f1c4ff3-a361-47fe-bf4a-01d09a6ad4d0/deploy-status)](https://nickermol-covid-dashboard.netlify.app/)
 
 DOWNLOAD
 ------------
